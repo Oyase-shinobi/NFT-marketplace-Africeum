@@ -65,7 +65,6 @@ function Header() {
 
     // window.addEventListener("scroll", () => {
     //   let currentScrollPoint = window.pageYOffset;
-    //   // console.log(currentScrollPoint);
     //   if (currentScrollPoint <= 0) {
     //     header.classList.remove("scroll-up");
     //     return;
